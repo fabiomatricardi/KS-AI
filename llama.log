@@ -1,0 +1,6 @@
+warming up the model with an empty run
+
+llama server listening at http://127.0.0.1:8080
+llama server listening at http://10.88.200.75:8080
+
+warning: this OS doesn't support pledge() security
